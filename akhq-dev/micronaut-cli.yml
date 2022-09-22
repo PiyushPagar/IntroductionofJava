@@ -1,5 +1,0 @@
-profile: service
-defaultPackage: org.akhq
----
-testFramework: junit
-sourceLanguage: java

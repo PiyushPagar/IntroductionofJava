@@ -1,8 +1,0 @@
-.git
-node/
-node_modules/
-.gradle
-.idea
-build/
-out/
-*.hprof
